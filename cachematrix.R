@@ -34,6 +34,6 @@ cacheSolve <- function(x, ...) {
   x$setmatrix(m)
   m
 }
-## the inverse of the matrix will be the result
+## the inverse of the matrix or the message will be the result
 
 ##end of the program
